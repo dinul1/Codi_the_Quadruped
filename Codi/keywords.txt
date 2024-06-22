@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Codi	KEYWORD1	Codi
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+leftturn	KEYWORD2
+rightturn	KEYWORD2
+gym	KEYWORD2
+sleep	KEYWORD2
+test	KEYWORD2
+wink	KEYWORD2
+laydown	KEYWORD2
+standup	KEYWORD2
+small_stop	KEYWORD2
+stand	KEYWORD2
+setupSensor	KEYWORD2
+setupServos	KEYWORD2
+idle	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
